@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MoviePredict.iml" filepath="$PROJECT_DIR$/.idea/MoviePredict.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EmotionsClassifierMLOps.iml" filepath="$PROJECT_DIR$/.idea/EmotionsClassifierMLOps.iml" />
     </modules>
   </component>
 </project>

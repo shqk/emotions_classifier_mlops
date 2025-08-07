@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/keys" />
       <excludeFolder url="file://$MODULE_DIR$/terraform/.terraform" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (MoviePredict)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 virtualenv at ~/Development/DATA ENG/EmotionsClassifierMLOps/.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
