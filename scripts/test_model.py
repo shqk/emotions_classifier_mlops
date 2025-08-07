@@ -19,7 +19,7 @@ def load_model(model_path):
         print(f"Error: Could not load the model : {e}")
         return None, None
 
-def classifier(tokenizer, model):
+def create_classifier(tokenizer, model):
     return pipeline(
         "text-classification",
         model=model,

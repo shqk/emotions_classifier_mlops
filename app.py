@@ -4,7 +4,7 @@ import streamlit as st
 
 model_path = './model/bert_emotions_6'
 tokenizer, model = load_model(model_path)
-classifier = classifier(tokenizer, model)
+classifier = create_classifier(tokenizer, model)
 
 labels = ['anger', 'disgust', 'fear', 'joy', 'sadness', 'surprise']
 
